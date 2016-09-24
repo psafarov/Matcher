@@ -5,7 +5,7 @@ An experimental library heavily inspired by pattern matching in functional langu
 ```php
 <?php
 
-use funciton Psafarov\Matcher\match;
+use function Psafarov\Matcher\match;
 
 if (match('[1, a: int, 0..5, "key" => [b]]', [1, 2, 3, "key" => [4]], $refs)) {
     echo "It is an array."
