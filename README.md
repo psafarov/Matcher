@@ -1,4 +1,7 @@
 # Matcher
+
+[![Build Status](https://travis-ci.org/psafarov/Matcher.svg?branch=master)](https://travis-ci.org/psafarov/Matcher)
+
 An experimental library heavily inspired by pattern matching in functional languages
 
 ## Usage
